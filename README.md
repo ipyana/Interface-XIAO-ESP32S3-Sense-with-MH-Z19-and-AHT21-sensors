@@ -29,8 +29,8 @@ This project uses an ESP32S3 microcontroller to read data from an MH-Z19B CO2 se
 This project requires the following libraries:
 
 - HardwareSerial (built-in)
-- MHZ19 (by Jonathan Dempsey)
-- Adafruit_AHTX0 (by Adafruit)
+- MHZ19 (by Jonathan Dempsey) Link: https://www.arduino.cc/reference/en/libraries/mh-z19/
+- Adafruit_AHTX0 (by Adafruit) Link: https://github.com/adafruit/Adafruit_AHTX0
 
 You can install these libraries through the Arduino IDE Library Manager.
 
