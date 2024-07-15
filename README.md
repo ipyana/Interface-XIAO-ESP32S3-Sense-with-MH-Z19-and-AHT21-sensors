@@ -1,4 +1,4 @@
-# Interface-XIAO-ESP32S3-Sense-with-MH-Z19-and-AHT21-sensors
+# Interfacing-XIAO-ESP32S3-Sense-with-MH-Z19-and-AHT21-sensors
 
 # ESP32S3 Environmental Sensor Array
 
